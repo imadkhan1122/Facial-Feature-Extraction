@@ -1,0 +1,3 @@
+from Facial_Recognition_and_Features_extraction import FACIAL_RACE_AGE_ETHNICS_EMOTIONS_FWHR
+
+img_featurre_detector = FACIAL_RACE_AGE_ETHNICS_EMOTIONS_FWHR()
